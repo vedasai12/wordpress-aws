@@ -1,6 +1,6 @@
 {
     "Parameters": {
-        "KeyName": "saikey",
+        "KeyName": "general_key",
         "InstanceType": "t2.small",
         "SSHLocation": "10.0.0.0/32",
         "DBName": "wordpressdb",
